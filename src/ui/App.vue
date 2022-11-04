@@ -3,5 +3,11 @@
 </script>
 
 <template>
-  <CounterVue />
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <CounterVue />
+      </div>
+    </div>
+  </div>
 </template>
