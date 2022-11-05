@@ -1,4 +1,4 @@
 /// <reference types="vite/client" />
 interface ImportMetaEnv {
-    readonly DASHBOARD_BACKEND: string
+    readonly VITE_DASHBOARD_BACKEND: string
   }
